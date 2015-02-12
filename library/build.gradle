@@ -10,8 +10,6 @@ android {
     }
 }
 
-supportLibraryVersion = '19.1.+'
-
 dependencies {
-    compile "com.android.support:support-v4:$supportLibraryVersion"
+    compile "com.android.support:support-v4:19.1.+"
 }
