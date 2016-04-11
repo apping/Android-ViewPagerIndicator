@@ -21,3 +21,9 @@ pom.xml.*
 local.properties
 build.xml
 proguard-project.txt
+
+/library/build/outputs/aar/library-release.aar
+/library/build/outputs/aar/library-debug.aar
+/library/build/intermediates/res/resources-debug-androidTest.ap_
+/library/build/intermediates/bundles/release/classes.jar
+/library/build/intermediates/bundles/debug/classes.jar
