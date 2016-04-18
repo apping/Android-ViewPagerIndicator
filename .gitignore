@@ -27,3 +27,9 @@ proguard-project.txt
 /library/build/intermediates/res/resources-debug-androidTest.ap_
 /library/build/intermediates/bundles/release/classes.jar
 /library/build/intermediates/bundles/debug/classes.jar
+
+/library/build/intermediates/incremental/mergeReleaseResources/merger.xml
+/library/build/intermediates/incremental/mergeDebugResources/merger.xml
+/library/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml
+/library/build/intermediates/incremental-safeguard/release/tag.txt
+/library/build/intermediates/incremental-safeguard/debug/tag.txt
